@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CardViewPrueba</string>
+
+    <!--recycler-->
+    <string name="nombre">Nombre:</string>
+    <string name="instrucciones">Instrucciones:</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="imagen"></string>
+
+    <!--datos-->
+    <string name="Ciorba_de_burta">Ciorba de burta</string>
+
+    <string name="mici">mici</string>
+
+    <string name="sarmale">sarmale</string>
+
+    <string name="gratar">gratar</string>
+
+    <string name="Ciorba_de_perisoare">mici</string>
+</resources>
